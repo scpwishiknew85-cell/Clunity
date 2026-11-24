@@ -1,0 +1,21 @@
+{
+  "name": "com.clunity.bridge",
+  "version": "0.1.0",
+  "displayName": "Clunity",
+  "description": "Lets Claude control the Unity Editor over MCP. Includes an editor bridge and a Node.js MCP server (Server~/).",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/scpwishiknew85-cell/Clunity#readme",
+  "keywords": [
+    "mcp",
+    "claude",
+    "ai",
+    "editor",
+    "tools"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "author": {
+    "name": "Clunity"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clunity-mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server that lets Claude control the Unity Editor through the Clunity bridge",
+  "main": "index.js",
+  "bin": {
+    "clunity-mcp": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ../test/test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "private": true
+}
